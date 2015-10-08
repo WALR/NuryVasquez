@@ -1,1 +1,3 @@
-### Theme Ghost [NuryVasquez](http://nuryvasquez.xyz/)
+###Blog Ghost [NuryVasquez](http://nuryvasquez.xyz/)
+
+> Blog Personal
