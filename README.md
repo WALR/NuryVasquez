@@ -1,3 +1,3 @@
 ###Blog Ghost [NuryVasquez](http://nuryvasquez.xyz/)
 
-> Blog Personal
+> Blog Personal Nury Vasquez
